@@ -21,4 +21,6 @@ int main() {
 
   std::cout << "Root 1 is " << root1 << "\n";
   std::cout << "Root 2 is " << root2 << "\n";
+
+  return o;
 }
